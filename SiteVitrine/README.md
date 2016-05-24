@@ -1,5 +1,5 @@
-Site Vitrine
-============
+Site Vitrine Formation
+======================
 
 ### Introduction
 
