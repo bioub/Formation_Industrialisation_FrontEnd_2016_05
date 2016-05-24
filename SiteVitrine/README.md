@@ -1,6 +1,8 @@
 Site Vitrine
 ============
 
+### Introduction
+
 Projet de la formation qui utiliser :
 
 * bower
