@@ -3,7 +3,7 @@ Site Vitrine Formation
 
 ### Introduction
 
-Projet de la formation qui utiliser :
+Projet de la formation qui utilise :
 
 * bower
 * bootstrap
