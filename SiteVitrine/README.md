@@ -8,6 +8,7 @@ Projet de la formation qui utilise :
 * bower
 * bootstrap
 * less
+* git
 
 ### Installation
 
