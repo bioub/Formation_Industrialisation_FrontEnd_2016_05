@@ -16,7 +16,9 @@ describe('MyString', function() {
     });
 
     it('should throw an error is not string', function() {
-
+      expect(function() {
+        MyString.length(12);
+      }).toThrowError("str must be a string");
     });
 
   });
